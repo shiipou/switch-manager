@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/shiipou/switch-manager-client
+[submodule "switch-manager-server"]
+	path = switch-manager-server
+	url = https://github.com/shiipou/switch-manager-server
